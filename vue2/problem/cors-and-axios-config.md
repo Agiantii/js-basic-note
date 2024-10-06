@@ -1,5 +1,6 @@
 
-
+> NOTE: 具体 vue.config.js 中 为什么这样可以参考
+> [vue.config.js 配置](https://zhuanlan.zhihu.com/p/628263030#:~:text=%E4%BB%80%E4%B9%88%E6%98%AF%E8%B7%A8%E5%9F%9F%EF%BC%8C%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A)
 ### AXIOS全局使用方法
 #### src\main.js中导入
 
